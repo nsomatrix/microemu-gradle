@@ -1,0 +1,16 @@
+# Gradle build files
+.gradle/
+build/
+**/build/
+
+# Eclipse/IDE build outputs and metadata
+**/bin/
+.metadata/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
+.project
+.classpath
+.settings/
